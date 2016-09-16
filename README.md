@@ -1,2 +1,2 @@
-# evtiko.github.io
-Evtiko Organization Page
+# Evtiko Organization Page
+https://evtiko.github.io
